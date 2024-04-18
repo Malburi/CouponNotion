@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupon", "Coupon\Coupon.csproj", "{37B9F0CE-BE60-4CF3-9431-1164DC6F3FB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponNotion", "WindowsFormsApp1\CouponNotion.csproj", "{CEE6DCF6-7AB6-4887-82E2-5EA066CD3447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B9F0CE-BE60-4CF3-9431-1164DC6F3FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9F0CE-BE60-4CF3-9431-1164DC6F3FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9F0CE-BE60-4CF3-9431-1164DC6F3FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9F0CE-BE60-4CF3-9431-1164DC6F3FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE6DCF6-7AB6-4887-82E2-5EA066CD3447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE6DCF6-7AB6-4887-82E2-5EA066CD3447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE6DCF6-7AB6-4887-82E2-5EA066CD3447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE6DCF6-7AB6-4887-82E2-5EA066CD3447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B68813D-513D-440D-9A77-0E6979734348}
+	EndGlobalSection
+EndGlobal
